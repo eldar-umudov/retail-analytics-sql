@@ -92,7 +92,7 @@ retail-analytics-sql/
 │   ├── cohort_analysis.sql
 │   ├── seasonality_analysis.sql
 │   ├── avg_check_analysis.sql
-│   └── discount_analysis.sql
+│   └── discount_analysis.sql```
 
 ---
 
