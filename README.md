@@ -90,7 +90,6 @@ retail-analytics-sql/
 │   ├── abc_xyz.sql
 │   ├── rfm_analysis.sql
 │   ├── cohort_analysis.sql
-│   ├── seasonality_analysis.sql
 │   ├── avg_check_analysis.sql
 │   └── discount_analysis.sql
 ```
